@@ -1,7 +1,7 @@
 # Styrene Production: Dehydrogenation of Ethylbenzene
 The purpose of this simulation is to explore methods to optimize the purity and yield of styrene via the dehydrogenation of ethylbenzene. ASPEN Plus is used to simulate the catalytic reactor, multiphase separator, and distillation columns. The .bkp are available in the file list with the report. 
 
-Reactin Kinetics:
+Reaction Kinetics:
 | Reaction | k_i          | E_{A_i} | K_i       | E_{A_i}     | n               | KEB              | k_i                | KEB             | k_i                |
 |----------|--------------|---------|-----------|-------------|-----------------|------------------|--------------------|-----------------|--------------------|
 |          | kmolkg-1h-1  | kJ/mol  | bar-1     | kmolkg-1h-1bar-1 | kmolkg-1sec-1Pa-1 | kJ/kmol          |                      | N/m2            | kmolkg-1sec-1(N/m2)-n |
